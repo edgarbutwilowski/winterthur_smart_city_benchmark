@@ -1,2 +1,2 @@
-# winterthur_smart_city_benchmark
-A comparison between two cities of interesting characteristics on the basis of OSM data 
+# Winterthur Smart City Benchmark
+Ein Vergleich besonderer Eigenschaften zwischen zwei Städten auf der Basis von Geodaten aus dem Datenbestand von OpenStreetMap.
